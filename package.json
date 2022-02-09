@@ -1,0 +1,24 @@
+{
+  "name": "dict-search",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "search": "bin/search"
+  },
+  "keywords": [
+    "dict",
+    "node dict",
+    "search dict"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "puppeteer": "^10.2.0",
+    "ora": "^3.2.0"
+  }
+}
